@@ -9,7 +9,7 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
 </div>
 
-[📃  前言](#--前言)eeeeeeee
+[📃  前言](#--前言)
 
 [🍭  效果](#--效果)
 
@@ -331,3 +331,5 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
+[MIT](https://opensource.org/licenses/mit-license.php)2
+
