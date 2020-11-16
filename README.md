@@ -306,7 +306,7 @@ $ cd /data/wwwroot/freenom/ && php run
 ![南京市民李先生](https://s2.ax1x.com/2020/02/04/1Bm3Ps.jpg "南京市民李先生")
 > 
 > 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李志
-
+> 认真是我们参与这个社会的方式，认真是我们改变这个社会的方式。  ——李bai
 ### ❤  捐赠 Donate
 如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
 #### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
@@ -331,5 +331,5 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
-[MIT](https://opensource.org/licenses/mit-license.php)2
+
 
